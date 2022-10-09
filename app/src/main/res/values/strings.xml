@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="textview_quotes">click for quotes</string>
+</resources>
